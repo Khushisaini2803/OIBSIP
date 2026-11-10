@@ -68,5 +68,20 @@ Task: Weather Intelligence Dashboard
 Project Name: WEATHERIQ
 
 ---
-
 Developed as part of my Python programming learning journey.
+
+##📸 Project Screenshots
+![WEATHERIQ Screenshot 1]
+(WEATHERIQ_1.png)
+![WEATHERIQ_Screenshot 2]
+(WEATHERIQ_2.png)
+![WEATHERIQ_Screenshot 3]
+(WEATHERIQ_3.png)
+![WEATHERIQ_Screenshot 4]
+(WEATHERIQ_4.png
+![WEATHERIQ_Screenshot 5]
+(WEATHERIQ_5.png)
+![WEATHERIQ_Screenshot 6]
+(WEATHERIQ_6.png)
+![WEATHERIQ_Screenshot 7]
+(WEATHERIQ_7.png)
